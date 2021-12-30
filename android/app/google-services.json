@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "437700008461",
+    "project_id": "coinlee-2e124",
+    "storage_bucket": "coinlee-2e124.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437700008461:android:5858e2c2260ffaa28c9344",
+        "android_client_info": {
+          "package_name": "com.coinlee.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437700008461-ko0depmhl7usgqua7nilan7o19li9oed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrOarjHp2k1h85qSw7_vTZkKY7nmmZDg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437700008461-ko0depmhl7usgqua7nilan7o19li9oed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
