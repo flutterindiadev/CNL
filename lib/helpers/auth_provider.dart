@@ -119,20 +119,6 @@ class AuthProvider extends ChangeNotifier {
           content: Text('Security Token Expired, Please login again'),
           backgroundColor: Colors.red,
         ));
-        // _user.firstName = '';
-        // _user.lastName = '';
-        // _user.token = '';
-        // _user.userEmail = '';
-        // _user.userId = '';
-        // _user.userMobile = '';
-        // _user.userReferalCode = '';
-        // _user.availableCoins = '0';
-        // _user.holdingCoins = '0';
-        // _user.totalEarnings = '0';
-        // _user.totalWithdrawl = '0';
-        // _user.welcomeBonus = '0';
-        // _user.cnlRate = '0';
-        // _user.usdRate = '0';
         StoreSession.clearSession();
       }
     }
